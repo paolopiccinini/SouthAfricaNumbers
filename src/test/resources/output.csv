@@ -1,0 +1,3 @@
+1,27831234567,The phone number is valid,VALID
+2,27831234567,The phone number was not valid corrected adding the south africa prefix,CORRECTED
+3,ciao,Error the phone number is not a number,REJECTED
